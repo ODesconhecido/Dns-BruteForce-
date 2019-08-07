@@ -3,7 +3,7 @@ Using browser console to brute forcing dns.
 My goal was to write the simplest lightest dns subdomain bruteforcer (that didn't require compiling or frameworks).
 Browsers are ubiquitous, so it's the perfect engine
 
-## Tested Broswers
+## Tested Browsers
 * -Tor
 * -Google Chrome
 * -Opera
