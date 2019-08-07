@@ -14,4 +14,4 @@ Browsers are ubiquitous, so it's the perfect engine
 1. Modify root tld to ur target
 1. Press enter
 ## Version
-1. 0.1- fixing bugs
+* 0.1- fixing bugs
